@@ -306,5 +306,7 @@ table{
     color: #BEC3C8;
     background-color: #0d0d0d;
     width: 100%;
-    padding: 0px;
+    align-items: center;
+    padding: 20px 30px;
+    height: 20px;
 }
